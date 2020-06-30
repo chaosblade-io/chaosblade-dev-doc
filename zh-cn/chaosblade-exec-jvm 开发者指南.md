@@ -13,4 +13,4 @@
 * [插件篇](chaosblade-exec-jvm/插件篇.md)
 * [字节码篇](chaosblade-exec-jvm/字节码篇.md)
 * [协议篇](chaosblade-exec-jvm/协议篇.md)
-* [开发实战篇](chaosblade-exec-jvm/开发实战篇.md)
+* [开发实战篇](chaosblade-exec-jvm/开发实战.md)
